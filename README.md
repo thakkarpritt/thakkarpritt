@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, Prit Here</h1>
 <h3 align="center">I am an Enthusiast Computer engineer from India.</h3>
 
-- 🔭 I’m currently working on python
+- 🔭 I’m currently working on Python
 - 🌱 I’m currently learning data science  
-- 👯 I’m looking to collaborate on python projects
-- 💬 Ask me about python 🐍
+- 👯 I’m looking to collaborate on Python projects
+- 💬 Ask me about Python 🐍
 - 📫 How to reach me: *pritpujara@gmail.com*
 
 - You can connect with me on - <br>
