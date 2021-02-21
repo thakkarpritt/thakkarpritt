@@ -8,4 +8,4 @@
 - 📫 How to reach me: *pritpujara@gmail.com*
 
 - You can connect with me on - <br>
-<a href="https://www.linkedin.com/in/prit-thakkar-778b7a18b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/prit-thakkar-778b7a18b/"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=17x17f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"></a>
