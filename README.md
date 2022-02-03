@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning data science  
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about Python 🐍
-- 📫 How to reach me: *pritpujara@gmail.com*
+- 📫 How to reach me: *thakkarprit7@gmail.com*
 
 - You can connect with me on -
 <a href="https://www.linkedin.com/in/prit-thakkar-778b7a18b/"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=20x19f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"></a>
